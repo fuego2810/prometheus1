@@ -53,5 +53,5 @@
 ---
 # Ответ:
 ![Задание 3 - README.md](img/task3.png)
-![Задание 3 - README.md](img/task4.png)
+![Задание 3.1 - README.md](img/3task.png)
 ---
